@@ -1,4 +1,3 @@
-# Starter Code
+## PROBLEM 9: [Given a list of checkboxes, clicking each one updates message above](https://github.com/FEWDMaterials/UIReview/tree/master/p9)
 
-This is your starter code.
-
+Given multiple checkboxes, clicking each one should update the UI and tell the user checkbox was clicked. 

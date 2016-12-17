@@ -31,3 +31,10 @@ Here are some more practice problems for you to work on.
 #### PROBLEM 14: [Given SlickJS, one move on slideshow 1 is two moves on slideshow2](https://github.com/FEWDMaterials/UIReview/tree/master/p14)
 
 #### PROBLEM 15: [Given SlickJS and Modal plugin, clicking on slideshow item opens modal and pauses slideshow](https://github.com/FEWDMaterials/UIReview/tree/master/p15)
+
+#### PROBLEM 16: [Create a Giphy Search Engine](https://github.com/FEWDMaterials/UIReview/tree/master/p16)
+
+#### PROBLEM 17: [Create a Movie Search Engine](https://github.com/FEWDMaterials/UIReview/tree/master/p17)
+
+#### PROBLEM 18: [Create a Weather Tracker](https://github.com/FEWDMaterials/UIReview/tree/master/p18)
+
